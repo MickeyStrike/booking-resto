@@ -1,0 +1,10 @@
+{
+  "production": {
+    "username": "nioeuyzexryjgn",
+    "password": "148c80a2170672e72f68fe073346974feaa98f52ff543a88c92a71428e492a7a",
+    "database": "dfs6u51kpd7o6r",
+    "host": "ec2-23-22-156-110.compute-1.amazonaws.com",
+    "dialect": "postgres",
+    "port": 5432
+  }
+}
